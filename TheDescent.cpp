@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
 
-    // game loop
+    //loop
     while (1) {
         int height = 0;
         int iheight = 0;
